@@ -1,0 +1,7 @@
+I am a Senior Data Engineer/AI Engineer with over 6 years of experience in building large scale intelligent data products. 
+My expertise includes building products on top of LLMs and Agentic Framework, Forward deployment of business needs and integrating with avaiable AI solutions,
+cloud solutioning on AWS, GCP, Azure, Snowflake, and Databricks.
+
+Currently, I'm focused on building agentic frameworks or integrating it in business logics.
+
+My background includes working as tech lead of team of 5 engineers in cloud migration of ML solutions in Canadian Tire Corporation.

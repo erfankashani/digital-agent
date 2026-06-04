@@ -1,0 +1,58 @@
+{
+  "full_name": "Erfan Kashani",
+  "name": "Erfan",
+  "current_role": ["Senior Data Engineer", "AI Engineer", "Cloud Architect"],
+  "location": "Canada",
+  "email": "erfan.e.k.kashani@example.com",
+  "linkedin": "https://www.linkedin.com/in/erfankashani",
+  "specialties": [
+    "Data Engineering",
+    "Artificial Intelligence",
+    "Professional Cloud Architect",
+    "Artificial Neural Networks",
+    "Natural Language Processing",
+    "Large Language Models",
+    "Generative AI",
+    "Microsoft Azure",
+    "Google Cloud Platform",
+    "Amazon Web Services",
+    "Data Warehousing",
+    "ETL Pipelines",
+    "Data Lakes",
+    "Distributed Systems",
+    "Hadoop",
+    "Spark",
+    "Airflow",
+    "SQL",
+    "Python",
+    "Data Modeling",
+    "Data Pipelines",
+    "Team Leadership",
+    "Project Management"
+  ],
+  "years_experience": 6,
+  "education": [
+    {
+      "degree": "Bachelor of Computer Engineering, Specialized In Management Science, Computer Engineering",
+      "institution": "Toronto Metropolitan University",
+      "year": "2021"
+    }
+  ],
+    "certifications": [
+        {
+            "name": "Microsoft Certified: Azure Fundamentals - AZ900",
+            "issuer": "Microsoft",
+            "year": "2022"
+        },
+        {
+        "name": "Google Certifed: Professional Cloud Architect Certification",
+        "issuer": "Google Cloud",
+        "year": "2026"
+        },
+        {
+        "name": "FUNDAMENTALS OF DEEP LEARNING FOR COMPUTER VISION",
+        "issuer": "NVIDIA",
+        "year": "2019"
+        }
+    ]
+}
