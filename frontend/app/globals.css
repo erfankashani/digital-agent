@@ -1,5 +1,9 @@
 @import 'tailwindcss';
 
+html {
+  scroll-behavior: smooth;
+}
+
 /* Smooth scrolling animation keyframe */
 @keyframes bounce {
   0%,
