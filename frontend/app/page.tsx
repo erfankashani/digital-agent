@@ -1,6 +1,7 @@
 import { HeroGeometric } from '@/components/ui/shape-landing-hero';
 import Twin from '@/components/twin';
 import Resume from '@/components/resume';
+import Projects from '@/components/projects';
 
 export default function Home() {
   return (
@@ -13,6 +14,8 @@ export default function Home() {
       </HeroGeometric>
 
       <Resume />
+
+      <Projects />
     </main>
   );
 }
