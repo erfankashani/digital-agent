@@ -8,7 +8,7 @@ import { NavBar } from "@/components/ui/tubelight-navbar"
 const navItems = [
   { name: "Home", url: "#", icon: Home },
   { name: "Resume", url: "#resume", icon: FileText },
-  { name: "Projects", icon: Briefcase },
+  { name: "Projects", url: "#projects", icon: Briefcase },
   { name: "About", icon: User },
 ]
 
