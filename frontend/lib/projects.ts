@@ -24,6 +24,6 @@ export const projects: Project[] = [
             'Moving a local, self-managed Airflow deployment to Google Cloud for under $150 a month — the architecture, the Terraform, and the trade-offs behind it.',
         href: 'https://dev.to/erfankashani/moving-your-local-airflow-to-gcp-for-under-150-a-month-2i1j',
         repo: 'https://github.com/erfankashani/self-managed-airflow-on-gcp',
-        coverImage: '/projects/self-managed-airflow-gcp.svg',
+        coverImage: '/projects/self-managed-airflow-gcp.png',
     },
 ];

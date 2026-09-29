@@ -51,3 +51,6 @@ settings.json
 # lambda deployment package
 lambda-deployment.zip
 lambda-package/
+
+# local conversation memory (backend, USE_S3=false)
+memory/
